@@ -4,7 +4,7 @@
 import mongoose from 'mongoose';
 import express from "express";
 import { Todo } from "./Todo.js";
-let conn = await mongoose.connect("mongodb+srv://ibrahimbaig2001_db_user:Ibrahimbaig%401234@practice.e7hecrd.mongodb.net/")
+let conn = await mongoose.connect("Your mongodb connection url")
 
 
 const app = express()
