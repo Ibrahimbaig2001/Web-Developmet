@@ -1,0 +1,2 @@
+This contains all the files to run a mongodb server either on atlas or on compass. You need to install node, npm and also type npm install --save-dev nodemon to download nodemon in your  project. Later during initatilzation of npm in the project using npm init -y , in the script section add "dev": main.js, or your script name so that 
+nodemon can be executed locally on your project folder.
