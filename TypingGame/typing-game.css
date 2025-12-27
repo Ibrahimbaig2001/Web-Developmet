@@ -1,0 +1,21 @@
+/* This is the css for the typing game */
+
+.highlight{
+    background-color: yellow;
+}
+.error{
+    background-color: lightcoral;
+    border: red;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    background-color: bisque;
+    height: 200px;
+}
+.practice{
+text-align: center;
+color: red;
+padding: 5px;
+font-size: large;
+}
