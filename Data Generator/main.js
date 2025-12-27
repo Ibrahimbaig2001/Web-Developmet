@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
 const Employee = require('./models/Employee')
-conn = mongoose.connect('mongodb+srv://ibrahimbaig2001_db_user:Ibrahimbaig%401234@practice.e7hecrd.mongodb.net/company');
+conn = mongoose.connect('Your-mongodb_connection/company');
 const port = 3000;
 app.set('view engine','ejs');
 const getRandom = (arr) => {
