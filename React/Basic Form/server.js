@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
 });
 
 // MongoDB connection
-mongoose.connect("mongodb+srv://ibrahimbaig2001_db_user:Ibrahimbaig%401234@practice.e7hecrd.mongodb.net/form-data")
+mongoose.connect("Your Mongodb Connection String")
   .then(() => console.log("MongoDB connected"))
   .catch(err => console.log(err));
 
