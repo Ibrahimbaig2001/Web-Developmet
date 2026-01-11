@@ -1,0 +1,1 @@
+This is a basic form created using react, mongodb, the data collected from the user gets stored in the database, using mongoose connection to mongodb where data is stored in form-data, we use express in react to make the browser talk with the database.
