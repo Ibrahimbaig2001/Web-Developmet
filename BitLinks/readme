@@ -4,4 +4,6 @@ All the pages in the website are completely working.
 Feel free to explore the website and suggenst any dynamic or static changes that can be made to make the website more usable and userfriendly.
 The website is designed keeping in mind that no people data is collected as in the form of login details. This is the major advantage of our website. 
 Feel free to use it in your day to day life.
-Thank You
+Thank You.
+
+## In the Mongodb if you want to use your own database add your mongodb coneection and the localhost://3000 as per your computer in the public.env and the data will be stored in your database.
